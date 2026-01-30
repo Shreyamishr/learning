@@ -1,3 +1,5 @@
 openai
-colorama
+openai
 python-dotenv
+streamlit
+watchdog
