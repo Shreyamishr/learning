@@ -307,4 +307,4 @@ if prompt := st.chat_input("Ask me anything..."):
                         else:
                             st.write("No description available.")
                         st.write(f"**City:** {prop.get('city')}")
-                        st.write(f"**Status:** {prop.get('construction_status')}")
+                        st.write(f"**Status:** {prop.get('construction_statu')}")

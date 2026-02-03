@@ -3,3 +3,5 @@ openai
 python-dotenv
 httpx
 watchdog
+#python -m streamlit run app.py
+#python -c "import streamlit; print(streamlit.__version__)"
